@@ -30,7 +30,7 @@ Sistema de Backup de Arquivos - Shell Script
 
 ## :books: Introdução
 
-Este projeto foi desenvolvido como parte da avaliação da disciplina Programação de Dispositivos Móveis, com o objetivo de praticar automação de tarefas em shell script, manipulação de arquivos e a criação de backups/restauração de arquivos e diretórios no sistema Linux. O sistema apresenta um menu interativo e intuitivo para facilitar a rotina de backup, restaurando arquivos de maneira segura e eficiente, além de reforçar conceitos de programação em Bash e administração de sistemas.
+Este projeto foi desenvolvido como parte da avaliação da disciplina Shell Script, com o objetivo de praticar automação de tarefas em shell script, manipulação de arquivos e a criação de backups/restauração de arquivos e diretórios no sistema Linux. O sistema apresenta um menu interativo e intuitivo para facilitar a rotina de backup, restaurando arquivos de maneira segura e eficiente, além de reforçar conceitos de programação em Bash e administração de sistemas.
 
 ---
 
